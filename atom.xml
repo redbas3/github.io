@@ -4,7 +4,7 @@
  <title>PAPER DINOSAUR</title>
  <link href="http://paper-dinosaur.com/atom.xml" rel="self"/>
  <id>http://paper-dinosaur.com</id>
- <updated>2015-06-12T21:47:10+09:00</updated>
+ <updated>2015-06-12T22:35:57+09:00</updated>
  <author>
    <name>redbas3</name>
    <uri>http://redbas3.github.io</uri>
@@ -18,7 +18,7 @@
    <link href="http://paper-dinosaur.com/tirano"/>
    <id>http://paper-dinosaur.com/tirano</id>
    <updated>2015-03-19T00:00:00+09:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/252/457428714_74e4c3016a_z.jpg&quot; alt=&quot;tirano&quot; title=&quot;tirano&quot; /&gt; &lt;a href=&quot;https://flic.kr/p/GqrBY&quot; target=&quot;_blank&quot;&gt;Scott Kinmartin, Flickr에서&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At...</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/252/457428714_74e4c3016a_z.jpg&quot; alt=&quot;tirano&quot; title=&quot;tirano&quot; class=&quot;image&quot; /&gt; &lt;a href=&quot;https://flic.kr/p/GqrBY&quot; target=&quot;_blank&quot; class=&quot;image_cc&quot;&gt;Scott Kinmartin, from Flickr&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate...</content>
  </entry>
 
  

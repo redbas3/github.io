@@ -31,6 +31,15 @@ a {
   a:hover, a:focus {
     color: #007131; }
 
+.image {
+  margin-bottom: 0; }
+
+.image_cc {
+  padding-left: 20px;
+  font-size: .8em;
+  color: #595fcc;
+  text-decoration: underline; }
+
 /*- Typography -*/
 body {
   font-family: 'Source Sans Pro', sans-serif;
@@ -391,7 +400,13 @@ footer {
   background-color: #008A3C;
   color: #FDFDFD;
   text-align: center;
-  padding: 0.6667em 0; }
+  padding: 0.6667em 0;
+  font-size: .9em; }
+
+footer a,
+footer a:active,
+footer a:hover {
+  color: #fff; }
 
 /*
  * A Github stylesheet to highlight code snippet
